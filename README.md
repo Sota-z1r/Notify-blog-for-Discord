@@ -20,7 +20,7 @@
 ## 使い方
 
 1. [プロジェクトを実行するコマンド]
-  python3 discord_notify.py
+   caffeinate -i python discord_notify.py
 
 ## 更新履歴
 
