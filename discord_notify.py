@@ -10,7 +10,7 @@ import time
 # 設定
 # =============================
 BLOG_URL = "https://www.nogizaka46.com/s/n46/diary/MEMBER"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1433628500195151983/ovmlW7XZrq3HDlcdUcIYyiHXEt-J6dG_J26poTtOxRF8bxBvpLvx2GCh9e-xNRJ9XPaw"
+DISCORD_WEBHOOK_URL = "YOUR_WEBHOOK_URL_HERE"
 CHECK_INTERVAL = 60  # 秒
 
 # =============================
